@@ -65,7 +65,7 @@ In either case, use the test_config fixture in the test definition.
 
 Then you can access platform specific details via .platform. This is not expected to be used outside of test_hosts, so please consider carefully if you really need it.
 If you do need to use it, test_config.platform will provide the dict for the current target platform's relevant namespace, e.g. the openstack namespace.
-As this is not expected to be frequently used, no example is provided below, so anyone looking for a quick solution to a problem will see the expected approach below.
+As this is not expected to be frequently used, no example is provided below, so anyone looking for a quick solution to a problem will see the expected approach here below.
 
 The primary access method is as a dict, based on the schema.
 e.g.
