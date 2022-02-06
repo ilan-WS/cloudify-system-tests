@@ -121,7 +121,7 @@ six==1.14.0
     #   pytest-xdist
     #   pywinrm
     #   retrying
-urllib3==1.25.8
+urllib3==1.26.5
     # via requests
 virtualenv==15.1.0
     # via wagon
