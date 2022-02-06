@@ -70,7 +70,7 @@ pluggy==0.13.1
     # via pytest
 proxy_tools==0.1.0
     # via cloudify-common
-py==1.8.1
+py==1.10.0
     # via pytest
 pycparser==2.20
     # via cffi
