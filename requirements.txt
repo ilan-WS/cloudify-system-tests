@@ -46,7 +46,7 @@ importlib-metadata==1.6.0
     #   pytest
 invoke==1.4.1
     # via fabric
-jinja2==2.10.3
+jinja2==2.11.3
     # via
     #   cloudify-common
     #   cloudify-system-tests (setup.py)
@@ -60,7 +60,7 @@ ntlm-auth==1.4.0
     # via requests-ntlm
 packaging==20.3
     # via pytest
-paramiko==2.7.1
+paramiko==2.10.1
     # via fabric
 path.py==11.5.2
     # via cloudify-system-tests (setup.py)
@@ -121,7 +121,7 @@ six==1.14.0
     #   pytest-xdist
     #   pywinrm
     #   retrying
-urllib3==1.25.9
+urllib3==1.26.5
     # via requests
 virtualenv==15.1.0
     # via wagon
